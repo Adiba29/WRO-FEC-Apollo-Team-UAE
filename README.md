@@ -22,7 +22,7 @@ For the build of the vehicle, we have used an **Arduino MEGA 2650 Microcontrolle
 * MPU6050 Gyroscope Sensor
 * L298n Motor Driver
 * TowerPro SG90 9G Micro Servo
-* 5:1 DC Mini Gear Motor (2x)
+* 150 RPM BO Motor - Dual shaft
 * Arduino Mini Breadboard
 * 12V Lithium-ion Batteries (2x)
 * 9V Battery, 2x SamBot Wheels (2x)
