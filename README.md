@@ -45,8 +45,3 @@ We have used the ultrasonic sensor to map out the boundaries of the game field i
 ### Servo:
 
 We’ve used a TowerPro SG90 9G micro servo motor to help Apollo steer. It is attached to digital pin number 8 on the arduino. To custom fit the Arduino servo onto our lego chassis, we 3D printed a bracket that efficiently connects the servo bracket into the gear of the lego chassis that powers our ackermann steering mechanism. The servo uses 3 pins all connected to the arduino, one which acts as the unique servo data cable and the rest which is used primarily for power. The servo is connected to the lego gear using a 3D printed chassis which in-turn rotates two other gears connected to the axle connecting Apollo’s wheels. The servo turns these gears based on the Arduino's command as mentioned in the aforementioned sections. This is what forms the base of Apollos steering mechanism. The servo rotates at a couple of angles including 140,80,60,160 keeping 110 as the center.
-
-## Youtube Links:
-[Qualifying](https://www.youtube.com/watch?v=UaHIiXaV4TM) 
-
-[Final](https://www.youtube.com/watch?v=sLMq7xGCFAQ)
